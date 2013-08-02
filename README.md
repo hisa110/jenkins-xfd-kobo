@@ -16,11 +16,17 @@ https://wiki.jenkins-ci.org/display/JENKINS/Emotional+Jenkins+Plugin
 
 #How to setup
 
+You need to connect your PC to Kobo by USB.
+This application use telnet. Before run those scripts, please enable telnet connection.
+
 ##kobo (Kobo touch)
 
 ###1) jail break your kobo(enable telnet)
 Please search yourself.
-see http://blog.osakana.net/archives/2794
+The following pages help you.
+- http://blog.osakana.net/archives/2794
+- http://wiki.mobileread.com/wiki/Kobo_WiFi_Hacking 
+- http://uscoffings.net/clc/tech/embedded/kobo-touch/
 
 ###2) copy
     cp kobo/* /mnt/onboard/
