@@ -9,7 +9,7 @@ SLEEP=10
 ANGRY_LIMIT=3
 
 err_cnt=0
-jenkins="jenkins"
+jenkins=""
 
 while true do
   response=RestClient::get "http://#{DOMAIN}/job/#{JOBNAME}/lastBuild/api/json?pretty=true"
