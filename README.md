@@ -7,6 +7,12 @@ You bought new kobo, you can re-use old kobo!
 When jenkins is green, displayed Mr.Jenkins at Kobo.
 When jenkins is failed, displayed Sad-Jenkins at Kobo.
 
+Jenkinsの結果をKoboで表示できます。
+新しいkoboを買ったら、いらなくなったkoboは再利用しましょう。
+ビルド結果がsuccessのときはふつうのJenkinsが表示され、Failしたときは悲しい顔のJenkinsが表示されます。
+
+こちらのEmotional Jenkinsの画像をつかわせていただきました。
+https://wiki.jenkins-ci.org/display/JENKINS/Emotional+Jenkins+Plugin
 
 #How to setup
 
